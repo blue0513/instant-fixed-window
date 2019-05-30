@@ -67,13 +67,25 @@
   (if width (ifw--adjust-window-width))
   (if height (ifw--adjust-window-height)))
 
-(defun instant-fixed-window-width ()
+(cl-defun instant-fixed-window-force-with(&key width height)
+  (if width (ifw--set-window-width-fixed!))
+  (if height (ifw--set-window-height-fixed!)))
+
+(defun toggle-instant-fixed-window-width ()
   (interactive)
   (instant-fixed-window-with :width t))
 
-(defun instant-fixed-window-height ()
+(defun toggle-instant-fixed-window-height ()
   (interactive)
   (instant-fixed-window-with :height t))
+
+(defun instant-fixed-window-width ()
+  (interactive)
+  (instant-fixed-window-force-with :width t))
+
+(defun instant-fixed-window-height ()
+  (interactive)
+  (instant-fixed-window-force-with :height t))
 
 ;; * provide
 

@@ -21,8 +21,10 @@ you can fix current-window's width/height.
 
 It's so simple!
 
-+ `M-x instant-fixed-window-with`: fix width
++ `M-x instant-fixed-window-width`: fix width
 + `M-x instant-fixed-window-height` fix height
++ `M-x toggle-instant-fixed-window-with`: fix or unfix width
++ `M-x toggle-instant-fixed-window-height` fix or unfix height
 
 ## Tips
 
