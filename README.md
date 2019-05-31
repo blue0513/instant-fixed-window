@@ -4,10 +4,10 @@ Instantly fix the current-window's width/height.
 
 ## What's This
 
-Even when you use some packages which can resize window automatically (ex. [zoom.el](), [golden-ratio.el]()), 
+Even when you use some packages which can resize window automatically (ex. [zoom](https://github.com/cyrus-and/zoom), [golden-ratio.el](https://github.com/roman/golden-ratio.el)), 
 you can fix current-window's width/height.
 
-![img]()
+![gif](https://gyazo.com/153e1e1c6b13d508edc62e899942fb8f)
 
 ## Setup
 

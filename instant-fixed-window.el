@@ -1,4 +1,4 @@
-;;; instant-fixed-window
+;;; instant-fixed-window --- Instantly fix window size
 
 ;; Copyright (C) 2019- blue0513
 
