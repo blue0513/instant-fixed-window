@@ -8,7 +8,7 @@ Even when you use some packages which can resize window automatically (ex. [zoom
 
 This example shows `inf-ruby`'s window is fixed and others not.
 
-[![instant-fixed-window](https://i.gyazo.com/153e1e1c6b13d508edc62e899942fb8f.gif)](https://gyazo.com/153e1e1c6b13d508edc62e899942fb8f)
+![img](https://i.gyazo.com/153e1e1c6b13d508edc62e899942fb8f.gif)
 
 ## Setup
 
