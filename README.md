@@ -4,10 +4,11 @@ Instantly fix the current-window's width/height.
 
 ## What's This
 
-Even when you use some packages which can resize window automatically (ex. [zoom](https://github.com/cyrus-and/zoom), [golden-ratio.el](https://github.com/roman/golden-ratio.el)), 
-you can fix current-window's width/height.
+Even when you use some packages which can resize window automatically (ex. [zoom](https://github.com/cyrus-and/zoom), [golden-ratio.el](https://github.com/roman/golden-ratio.el)), you can fix current-window's width/height.
 
-![gif](https://gyazo.com/153e1e1c6b13d508edc62e899942fb8f)
+This example shows `inf-ruby`'s window is fixed and others not.
+
+[![instant-fixed-window](https://i.gyazo.com/153e1e1c6b13d508edc62e899942fb8f.gif)](https://gyazo.com/153e1e1c6b13d508edc62e899942fb8f)
 
 ## Setup
 
